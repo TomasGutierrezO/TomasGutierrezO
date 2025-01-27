@@ -36,7 +36,7 @@ Me dedico a expandir mis conocimientos en ciberseguridad, con un énfasis partic
 - 🖥️ Systems Engineering
 - 🛡️ Cybersecurity
 - 🌐 Network Security
-- 🔍 Penetration Testing
+- 🔍 Pentesting
 
 ## Current Focus
 I'm dedicated to expanding my knowledge in cybersecurity, with a particular emphasis on ethical hacking. I'm always eager to collaborate on innovative projects that challenge and enhance my skills in these areas.
