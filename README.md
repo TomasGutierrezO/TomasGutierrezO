@@ -13,7 +13,7 @@
 - 🔍 Pentesting
 
 ## Enfoque Actual
-Me dedico a expandir mis conocimientos en ciberseguridad, con un énfasis particular en hacking ético. Siempre estoy dispuesto a colaborar en proyectos innovadores que desafíen y mejoren mis habilidades en estas áreas.
+Me dedico a expandir mis conocimientos en ciberseguridad, con un énfasis particular en hacking ético. Siempre estoy dispuesto a colaborar en proyectos que desafíen y mejoren mis habilidades en estas áreas.
 
 ## Información de Contacto
 - 📧 Correo electrónico: tgutierrezorozco@gmail.com
@@ -39,7 +39,7 @@ Me dedico a expandir mis conocimientos en ciberseguridad, con un énfasis partic
 - 🔍 Pentesting
 
 ## Current Focus
-I'm dedicated to expanding my knowledge in cybersecurity, with a particular emphasis on ethical hacking. I'm always eager to collaborate on innovative projects that challenge and enhance my skills in these areas.
+I'm dedicated to expanding my knowledge in cybersecurity, with a particular emphasis on ethical hacking. I'm always eager to collaborate on projects that challenge and enhance my skills in these areas.
 
 ## Contact Information
 - 📧 Email: tgutierrezorozco@gmail.com
